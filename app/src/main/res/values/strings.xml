@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="te">TE</string>
+    <string name="be">BE</string>
+    <string name="exit">Exit</string>
+    <string name="next">Next</string>
+</resources>
